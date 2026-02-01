@@ -1,0 +1,12 @@
+C:\Users\erayg\Downloads\metrics-backend\metrics-backend\metrics-backend\src\main\java\com\example\demo\controller\MetricController.java
+C:\Users\erayg\Downloads\metrics-backend\metrics-backend\metrics-backend\src\main\java\com\example\demo\dto\AnalysisResponseDto.java
+C:\Users\erayg\Downloads\metrics-backend\metrics-backend\metrics-backend\src\main\java\com\example\demo\dto\AnalysisSummaryDto.java
+C:\Users\erayg\Downloads\metrics-backend\metrics-backend\metrics-backend\src\main\java\com\example\demo\dto\MetricResultDto.java
+C:\Users\erayg\Downloads\metrics-backend\metrics-backend\metrics-backend\src\main\java\com\example\demo\MetricsBackendApplication.java
+C:\Users\erayg\Downloads\metrics-backend\metrics-backend\metrics-backend\src\main\java\com\example\demo\model\AnalysisEntity.java
+C:\Users\erayg\Downloads\metrics-backend\metrics-backend\metrics-backend\src\main\java\com\example\demo\model\MetricResultEntity.java
+C:\Users\erayg\Downloads\metrics-backend\metrics-backend\metrics-backend\src\main\java\com\example\demo\repository\AnalysisRepository.java
+C:\Users\erayg\Downloads\metrics-backend\metrics-backend\metrics-backend\src\main\java\com\example\demo\repository\MetricResultRepository.java
+C:\Users\erayg\Downloads\metrics-backend\metrics-backend\metrics-backend\src\main\java\com\example\demo\service\AnalysisService.java
+C:\Users\erayg\Downloads\metrics-backend\metrics-backend\metrics-backend\src\main\java\com\example\demo\service\impl\AnalysisServiceImpl.java
+C:\Users\erayg\Downloads\metrics-backend\metrics-backend\metrics-backend\src\main\java\com\example\demo\util\MetricCalculator.java
